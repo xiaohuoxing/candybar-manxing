@@ -1,11 +1,14 @@
 {
   "latestVersion": "1.1",
-  "latestVersionCode": 1,
-  "url": "https://github.com/zixpo/candybar",
+  "latestVersionCode": 2,
+  "disableRequest": {
+    "below": 2
+  },
+  "url": "https://www.coolapk.com/apk/256956",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+    "添加了几个图标",
+    "请用酷安更新",
+     "...",
+    "<b>酷安<i>@</i>小伙星</b>"
   ]
 }
