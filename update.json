@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.0",
+  "latestVersionCode": 1,
   "disableRequest": {
-    "below": 2
+    "below": 1
   },
-  "url": "https://www.coolapk.com/apk/256956",
+  "url": "https://www.coolapk.com/apk/sngzs.manxing.icon",
   "releaseNotes": [
     "添加了几个图标",
     "请用酷安更新",
-     "测试2020.0611 11:31:10",
+     "正式版",
     "<b>酷安<i>@</i>小伙星</b>"
   ]
 }
