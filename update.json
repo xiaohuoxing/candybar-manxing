@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 1,
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 2,
   "disableRequest": {
-    "below": 1
+    "below": 2
   },
   "url": "https://www.coolapk.com/apk/256449",
   "releaseNotes": [
-    "添加了几个图标",
+    "添加了16个图标",
     "请用酷安更新",
     "<b>酷安<i>@</i>小伙星</b>"
   ]
