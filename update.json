@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.3",
-  "latestVersionCode": 3,
+  "latestVersion": "1.0.4",
+  "latestVersionCode": 4,
   "disableRequest": {
     "below": 2
   },
   "url": "https://www.coolapk.com/apk/276183",
   "releaseNotes": [
-    "添加了16个图标",
+    "添加了6个图标，3.8.0升级到3.8.0",
     "请用酷安更新",
     "<b>酷安<i>@</i>小伙星</b>"
   ]
