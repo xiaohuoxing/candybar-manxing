@@ -1,15 +1,14 @@
 {
-  "latestVersion": "1.0.6",
-  "latestVersionCode": 6,
+  "latestVersion": "1.1.0",
+  "latestVersionCode": 10,
   "disableRequest": {
-    "below": 6
+    "below": 10
   },
   "url": "https://www.coolapk.com/apk/276183",
   "releaseNotes": [
-    "修复了一些bug",
-     "添加了几个个图标，壁纸也可以下载了",
-     "每次申请图标是8个，现在是16个",
+     "添加了14个图标",
+     "这是第十次更新感谢支持",
     "请用酷安更新",
-    "<b>酷安<i>@</i>xin_小伙星</b>"
+    "<b>酷安<i>@</i>Xin_小伙星</b>"
   ]
 }
