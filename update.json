@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.1.0",
-  "latestVersionCode": 10,
+  "latestVersion": "1.1.6",
+  "latestVersionCode": 16,
   "disableRequest": {
-    "below": 10
+    "below": 16
   },
   "url": "https://www.coolapk.com/apk/276183",
   "releaseNotes": [
