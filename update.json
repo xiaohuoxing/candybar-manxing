@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.8",
-  "latestVersionCode":28,
+  "latestVersion": "1.2.9",
+  "latestVersionCode":29,
   "disableRequest": {
-    "below": 28
+    "below": 29
   },
   "url": "https://www.coolapk.com/apk/276183",
   "releaseNotes": [
-     "测试用的哈哈哈哈",
+     "有新版本！",
      "这是第29次更新感谢支持",
-    "请用酷安更新",
-    "<b>酷安<i>@</i>Xin_小伙星</b>"
+     "目前只在酷安/奇妙应用更新，其他均为。。。",
+     "<b>酷安<i>@</i>Xin_小伙星</b>"
   ]
 }
