@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.3.0",
-  "latestVersionCode":30,
+  "latestVersion": "1.3.1",
+  "latestVersionCode":31,
   "disableRequest": {
-    "below": 30
+    "below": 31
   },
-  "url": "https://www.coolapk.com/apk/sngzs.manxing.icons",
+  "url": "https://xiaohuoxing.lanzout.com/iGPrg1lu8htc",
   "releaseNotes": [
      "有新版本！",
      "域名过期了，壁纸加载可能会很慢",
      "这是第31次更新感谢支持",
      "这次更新添加几个图标，修复失效图标若干个",
-     "目前只在酷安其他均为。。。",
-     "<b>酷安<i>@</i>Xin_小伙星</b>"
+     "686个图标",
+     "<b>在下<i></i>小伙星</b>"
   ]
 }
