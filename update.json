@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.3.1",
-  "latestVersionCode":31,
+  "latestVersion": "1.3.2",
+  "latestVersionCode":32,
   "disableRequest": {
-    "below": 31
+    "below": 32
   },
-  "url": "https://xiaohuoxing.lanzout.com/ietXa1lvh8ih",
+  "url": "https://xiaohuoxing.lanzout.com/iFOex1pcescd",
   "releaseNotes": [
      "有新版本！",
-     "测试能否更新",
      "这是第32次更新感谢支持",
-     "705个图标",
+     "添加26个图标",
+     "718个图标",
      "<b>在下<i></i>小伙星</b>"
   ]
 }
