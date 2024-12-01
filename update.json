@@ -1,14 +1,15 @@
 {
-  "latestVersion": "1.3.3",
-  "latestVersionCode":33,
+  "latestVersion": "1.3.4",
+  "latestVersionCode":34,
   "disableRequest": {
-    "below": 33
+    "below": 34
   },
-  "url": "https://xiaohuoxing.lanzout.com/imUy52bswekd",
+  "url": "https://xiaohuoxing.lanzout.com/ihDeo2gui9kb",
   "releaseNotes": [
      "有新版本！",
-     "修复了一些更新包名的应用",
-     "一共725个图标",
+     "这次更新并没有修改版本号，所以暂时不能申请图标。需要申请适配就联系我哈",
+     "主要是修复了一些更新包名的应用",
+     "图标还是725个图标",
      "四周年啦",
      "这是第33次更新感谢支持",
      "<b>在下<i></i>小伙星</b>"
