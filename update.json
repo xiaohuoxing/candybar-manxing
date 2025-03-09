@@ -1,17 +1,18 @@
 {
-  "latestVersion": "1.3.4",
-  "latestVersionCode":34,
+  "latestVersion": "1.3.5",
+  "latestVersionCode":35,
   "disableRequest": {
-    "below": 34
+    "below": 35
   },
-  "url": "https://m.592xiazai.com/down/22346.html",
+  "url": "https://xiaohuoxing.lanzout.com/iJbGB2pzz26b",
   "releaseNotes": [
      "新年快乐！！！",
      "有新版本！",
+     "！！！下载的RAR文件改成APK！！！",
      "更新依赖，适配Android15",
-     "745个图标（新增20）重制了几个",
+     "760个图标（新增15）重制了几个",
      "维护四年啦",
-     "这是第34次更新感谢支持",
+     "这是第35次更新感谢支持",
      "<b>在下<i></i>小伙星</b>"
   ]
 }
